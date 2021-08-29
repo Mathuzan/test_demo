@@ -1,1 +1,5 @@
 In this file we need to add some text and add them to git
+
+Also git pull is working for me now,
+git checkout is also, 
+git branch is also
